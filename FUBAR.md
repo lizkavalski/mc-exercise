@@ -6,7 +6,7 @@ This is what Bob and Carol did on Carol's computer when working on the first fea
 
 dogs are better then cats
 
-'use strict';
+use loose-goosey
 
 Caroline!(Caroline!) Caroline!
 All the guys would say she's mighty fine(Mighty fine!)
@@ -20,6 +20,9 @@ I know you'd like to think your shit don't stink
 But lean a little bit closer
 See that roses really smell like poo-poo-oo
 Yeah, roses really smell like poo-poo-oo
+<<<<<<< HEAD
  -------------------
  
 “It's no use going back to yesterday, because I was a different person then.”
+=======
+>>>>>>> c48111cdf993f21b727c936dd66547e05bc2214c
