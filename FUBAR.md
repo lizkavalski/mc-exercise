@@ -6,7 +6,7 @@ This is what Bob and Carol did on Carol's computer when working on the first fea
 
 dogs are better then cats
 
-'use strict';
+use loose-goosey
 
 Caroline!(Caroline!) Caroline!
 All the guys would say she's mighty fine(Mighty fine!)
