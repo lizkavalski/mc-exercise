@@ -20,3 +20,6 @@ I know you'd like to think your shit don't stink
 But lean a little bit closer
 See that roses really smell like poo-poo-oo
 Yeah, roses really smell like poo-poo-oo
+ -------------------
+ 
+“It's no use going back to yesterday, because I was a different person then.”
