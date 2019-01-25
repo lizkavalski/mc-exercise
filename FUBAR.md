@@ -4,4 +4,6 @@ This is what Bob and Carol did on Carol's computer when working on the first fea
 
 @TedTheTeddyBear and @AliceInCoderland ...and bob and carol...
 
+dogs are better then cats
+
 'use strict';
